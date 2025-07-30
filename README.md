@@ -57,22 +57,21 @@ Me chamo Lara Zampollo tenho 23 anos e sou de São Paulo. Concluí o ensino méd
 />
 </div>
 
-<br>  
-### 📊 Estatísticas
+<br> 
 
+### 📊 Estatísticas
 <div>
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LaraLZ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraLZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img 
+  alt="GitHub Stats" 
+  height="200" 
+  style="margin-bottom: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=LaraLZ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+  alt="Top Languages" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraLZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 </div>
 
 
