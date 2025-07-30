@@ -76,4 +76,5 @@ Me chamo Lara Libanori tenho 23 anos e sou de São Paulo. Concluí o ensino méd
 
 ## 🎯 Follow me in my social networks 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laralibanori/)
-[![Instagram](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/_laralibanori)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_laralibanori)
+
