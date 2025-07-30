@@ -1,9 +1,9 @@
 ## Hi Devs 👋
 # 👩🏻‍💻 Lara Libanori
 
-**`Desenvolvedora`**
+**`Deseloper`**
 
-Me chamo Lara Libanori tenho 23 anos e sou de São Paulo. Concluí o ensino médio na ETEC Lauro Gomes, com o curso técnico em eletrônica. Atualmente, estou cursando Engenharia da computação na UNIVESP e sou formada em TI. Sou apaixonada por tecnologia, fisíca, programação e poder compartilhar esse conhecimento.
+My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated from ETEC Lauro Gomes with a technical degree in electronics. I'm currently studying computer engineering at UNIVESP and have a degree in IT. I'm passionate about technology, physics, programming, and sharing this knowledge.
 ## 💻 Technologies & Tools
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
