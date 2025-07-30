@@ -57,10 +57,10 @@ Me chamo Lara Zampollo tenho 23 anos e sou de São Paulo. Concluí o ensino méd
 />
 </div>
 
-
+<br>  
 ### 📊 Estatísticas
 
-<div align="center">
+<div>
   <img 
     alt="GitHub Stats" 
     height="200" 
