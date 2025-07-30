@@ -1,9 +1,9 @@
 ## Hi Devs 👋
-# 👩🏻‍💻 Lara Zampollo
+# 👩🏻‍💻 Lara Libanori
 
 **`Desenvolvedora`**
 
-Me chamo Lara Zampollo tenho 23 anos e sou de São Paulo. Concluí o ensino médio na ETEC Lauro Gomes, com o curso técnico em eletrônica. Atualmente, estou cursando Engenharia da computação na UNIVESP e sou formada em TI. Sou apaixonada por tecnologia, fisíca, programação e poder compartilhar esse conhecimento.
+Me chamo Lara Libanori tenho 23 anos e sou de São Paulo. Concluí o ensino médio na ETEC Lauro Gomes, com o curso técnico em eletrônica. Atualmente, estou cursando Engenharia da computação na UNIVESP e sou formada em TI. Sou apaixonada por tecnologia, fisíca, programação e poder compartilhar esse conhecimento.
 ## 💻 Technologies & Tools
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
@@ -56,7 +56,6 @@ Me chamo Lara Zampollo tenho 23 anos e sou de São Paulo. Concluí o ensino méd
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </div>
-
 <br> 
 
 
@@ -75,4 +74,6 @@ Me chamo Lara Zampollo tenho 23 anos e sou de São Paulo. Concluí o ensino méd
 />
 </div>
 
-
+## 🎯 Follow me in my social networks 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laralibanori/)
+[![Instagram](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/_laralibanori)
