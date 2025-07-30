@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi Devs 👋
 # 👩🏻‍💻 Lara Zampollo
 
 **`Desenvolvedora`**
 
 Me chamo Lara Zampollo tenho 23 anos e sou de São Paulo. Concluí o ensino médio na ETEC Lauro Gomes, com o curso técnico em eletrônica. Atualmente, estou cursando Engenharia da computação na UNIVESP e sou formada em TI. Sou apaixonada por tecnologia, fisíca, programação e poder compartilhar esse conhecimento.
 ## 💻 Technologies & Tools
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+</div>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -53,7 +54,7 @@ Me chamo Lara Zampollo tenho 23 anos e sou de São Paulo. Concluí o ensino méd
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>/
+/>
 
 ### 📊 Estatísticas
 
