@@ -1,10 +1,10 @@
 ## Hi Devs 👋
 # 👩🏻‍💻 Lara Libanori
 
-**`Deseloper`**
+**`Developer`**
 
 My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated from ETEC Lauro Gomes with a technical degree in electronics. I'm currently studying computer engineering at UNIVESP and have a degree in IT. I'm passionate about technology, physics, programming, and sharing this knowledge.
-## 💻 Technologies & Tools
+## 💻 Tecnologias e ferramentas | Technologies & Tools
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
@@ -13,7 +13,7 @@ My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 </div>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias | Languages and Technologies
 <div
 <img 
     align="left" 
@@ -96,7 +96,7 @@ My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated
 <br> 
 
 
-### 📊 Estatísticas
+### 📊 Estatísticas | Statistics
 <div align="center">
 <img 
   alt="GitHub Stats" 
@@ -114,7 +114,7 @@ My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated
 ## 🎯 Follow me in my social networks 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laralibanori/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_laralibanori)
-[![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/laralibanori/badges)
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@laralibanori)
+<!--[![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/laralibanori/badges)
+[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@laralibanori) -->
 
 
