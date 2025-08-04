@@ -9,11 +9,12 @@ Meu nome é Lara Libanori, tenho 23 anos e sou de São Paulo. Atualmente, curso 
 ## EN English |
 My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated from ETEC Lauro Gomes with a technical degree in electronics. I'm currently studying computer engineering at UNIVESP and have a degree in IT. I'm passionate about technology, physics, programming, and sharing this knowledge.
 
-### 🎯 Interesses & Hobbies
+### 💡 Interesses & Hobbies
 
 - ⚔️ 🔵 **Star Wars**: Que a força esteja com você!
 - 🎮 **Jogos**: Gosto de me divertir e também de aprender com games.
 - 📚 **Livros & Desenvolvimento Pessoal**: Leitura transforma!
+- 🧠 **Crescimento pessoal**: Sempre buscando evoluir 
 - 🏋️ **Academia**: Corpo são, mente sã.
 - ⛪ **Igreja**: Minha fé é parte importante da minha vida.
 - 🍽️ **Brunch e Gastronomia**: Amo sair para comer — especialmente brasileira, italiana, francesa e japonesa!
